@@ -8,7 +8,6 @@
 
 void quotient(void) {
 	
-	
 	int nombre1 = 0;
 	int nombre2 = 0;
 	int resultat_nombre;

@@ -9,7 +9,6 @@
 int main(void) {
 
 		// Affichage du nom du jeu en Ascii Art
-
 		char chaineAsciiArt[TAILLE_CHAINE_ASCII_ART];
 
 		FILE* fichier = fopen("ascii-art.txt", "r+");
@@ -21,7 +20,7 @@ int main(void) {
 	        	printf("%s", chaineAsciiArt);
 	    	}
 
-	    	printf("\n Tous droits réservés a Mortim\n");
+	    	printf("\n © Tous droits réservés a Mortim\n");
 
 	        
 	    }

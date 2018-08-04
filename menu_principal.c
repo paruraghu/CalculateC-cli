@@ -7,7 +7,6 @@
 
 void menu_principal(void) {
 
-	
 	int choix = 0;
 	int continuer = 1;
 
