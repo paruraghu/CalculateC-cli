@@ -21,7 +21,7 @@ Sur MacOs (sans Xcode) sur ce <a href="https://korben.info/comment-installer-gcc
 <br />
 
 ## Comment l'éxecuter
-Après avoir cloné le projet allez sur le projet courant avec la commande cd (fonctionnel sur Windows et Linux)
+Après avoir cloné le projet allez sur le projet courant avec la commande cd
 ```
 cd /CalculateC-cli
 ```
