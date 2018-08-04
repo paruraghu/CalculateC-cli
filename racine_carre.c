@@ -7,6 +7,7 @@
 
 void racine_carre(void) {
 	
+	
 	int nombre = 0;
 	int resultat_nombre;
 	int choix = 0;

@@ -1,6 +1,7 @@
 #ifndef __CALCULATE_H__
 #define __CALCULATE_H__
 
+	
 	void difference(void);
 	void produit(void);
 	void quotient(void);

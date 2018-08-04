@@ -5,7 +5,6 @@
 #include "calculate.h"
 
 
-
 void difference(void) {
 
 	int nombre1 = 0;

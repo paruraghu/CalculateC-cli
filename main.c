@@ -21,7 +21,7 @@ int main(void) {
 	        	printf("%s", chaineAsciiArt);
 	    	}
 
-	    	printf("\n© Tous droits réservés a Mortim\n");
+	    	printf("\n Tous droits réservés a Mortim\n");
 
 	        
 	    }
