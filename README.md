@@ -1,5 +1,5 @@
 # CalculateC-cli
-Voici CalculateC, un programme basique codé en C, c'est une calculatrice pour des opérations simples
+Voici CalculateC, un programme basique codé en C, c'est une calculatrice pour des opérations simples.
 
 <img src="https://image.noelshack.com/fichiers/2018/31/6/1533418669-iiiiiooopp.png">
 
