@@ -31,7 +31,7 @@ Ensuite on le compile puis on l'éxecute
 
 <br />
 
-Sur Windows
+Sur Windows (si vous n'avez pas la commande make installé)
 ```
 gcc *.c -o main
 main
@@ -40,13 +40,12 @@ main
 
 Sur Linux
 ```
-gcc *.c -o main
-./main
+make
 ```
 
 <br />
 
 Sur MacOS
 ```
-gcc fichier.c.
+make
 ```
