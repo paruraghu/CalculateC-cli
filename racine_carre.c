@@ -7,17 +7,17 @@
 
 void racine_carre(void) {
 	
-	int nombre = 0;
-	int resultat_nombre;
+	double nombre = 0;
+	double resultat_nombre;
 	int choix = 0;
 	int continuer = 1;
 
 	printf("\nEntrez le nombre choisi:\n");
-	scanf("%d", &nombre);
+	scanf("%lf", &nombre);
 
 	resultat_nombre = sqrt(nombre);
 
-	printf("\n\nLe résultat de √%d est %d\n", nombre, resultat_nombre);
+	printf("\n\nLe résultat de √%.3lf est %.3lf\n", nombre, resultat_nombre);
 
 	printf("1/ Retour\n");
 	printf("2/ Quitter\n");
