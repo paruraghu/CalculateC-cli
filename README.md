@@ -13,6 +13,7 @@ Voici CalculateC, un programme basique codé en C, c'est une calculatrice pour d
 
 ## Comment l'installer ? 
 Sur windows: installez Mingw sur ce <a href="http://www.mingw.org/">lien</a>
+, petit tuto pour pouvoir l'installer: https://www.youtube.com/watch?v=kG1c8ZOb6rM
 
 Sur Linux: ```sudo apt-get install gcc```
 
