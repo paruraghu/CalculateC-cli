@@ -19,10 +19,8 @@ int main(void) {
 	        	fgets(chaineAsciiArt, TAILLE_CHAINE_ASCII_ART, fichier);
 	        	printf("%s", chaineAsciiArt);
 	    	}
-
+			
 	    	printf("\n © Tous droits réservés a Mortim\n");
-
-	        
 	    }
 	    else
 	    {
