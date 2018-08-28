@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
+
 #ifndef __CALCULATE_H__
 #define __CALCULATE_H__
 
